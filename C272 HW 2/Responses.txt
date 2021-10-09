@@ -1,0 +1,5 @@
+1. O(N), time would be proportioned to N, as it would need time to retrieve N/2 elements
+2. O(N), time should be approx N/2 loops to retrieve items
+4.  (i) O(nlogn)
+    (ii) (i) O(n^3)
+         (ii) O(log^10(n))
