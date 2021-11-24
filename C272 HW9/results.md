@@ -1,0 +1,1 @@
+Printing in order of 1 as Kruskal and 2 as Path Compression
